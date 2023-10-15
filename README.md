@@ -1,4 +1,4 @@
-# C# Windows Forms Kontrol Örnekleri 🖥️
+#  Windows Forms Kontrol Örnekleri 🖥️
 
 * 1.) 📝 CheckBox Formu (CheckBox.cs):
    - Kullanıcı checkbox seçimini kontrol eder. Seçiliyse, "CheckBox Seçili" olarak değiştirilir ve yeşil renge dönüşür. Seçili değilse, "CheckBox Seçili DEĞİL" olarak değiştirilir ve kırmızı renge dönüşür.
